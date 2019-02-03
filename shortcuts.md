@@ -101,7 +101,7 @@
 | **Create Shape From Edges** | Shift+M |
 | **Detach** | Ctrl+D |
 | **Detach (Poly)** | Ctrl+D |
-| **Down** | Shift+Down A |rrow, C
+| **Down** | Shift+Down Arrow, C
 | **Edge Invisible** | Ctrl+I |
 | **Edit Triangulation Mode** | Shift+T |
 | **Enable Axis Constraints in Snaps Toggle** | Alt+F3 |
@@ -142,7 +142,7 @@
 | **Reset Slice Plane** | Alt+S |
 | **Reset XForm** | NumPad + |
 | **Retriangulate** | Shift+Ctrl+T |
-| **Right View** | ` |
+| **Right View** | `` ` ``|
 | **Select By Vertex** | Alt+V |
 | **Select Edge Loop** | Alt+L |
 | **Select Edge Ring** | Alt+R |
